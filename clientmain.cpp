@@ -13,5 +13,5 @@ int main(int argc, char *argv[]){
   
   /* Do magic */
   
-
+  printf("testclient");
 }
